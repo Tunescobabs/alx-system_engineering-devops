@@ -1,5 +1,5 @@
 
-#0x06. Regular expression
+#0x06. Regular expressions
 
 ## Table of contents
 
