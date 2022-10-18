@@ -1,1 +1,1 @@
-This is a bash project
+This is the project directory
