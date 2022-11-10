@@ -1,6 +1,7 @@
 # 0x07. Networking basics #0
 
 ## Table of contents
+
 Files | Description
 ----- | -----------
 [0-OSI_model](./0-OSI_model) | What is the OSI model? How is the OSI model organized?
